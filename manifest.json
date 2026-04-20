@@ -1,7 +1,7 @@
 {
   "name": "Mon App pour Papa",
   "short_name": "PapaApp",
-  "start_url": "/",
+  "start_url": "/test",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000"
